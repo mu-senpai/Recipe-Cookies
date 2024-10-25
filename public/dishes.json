@@ -1,0 +1,92 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co.com/SNCYc6P/grilled-chicken.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken with Basil",
+        "short_description": "A healthy grilled chicken recipe with a hint of basil.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaf",
+            "400 g mushroom",
+            "Pinch of salt"
+        ],
+        "preparing_time": 30,
+        "calories": 320
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/hZjtTW3/vegetable-salad.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Mixed Vegetable Salad",
+        "short_description": "A refreshing vegetable salad with cucumbers, tomatoes, and lettuce.",
+        "ingredients": [
+            "200 g cucumber",
+            "150 g tomato",
+            "100 g lettuce",
+            "50 ml olive oil",
+            "Pinch of salt"
+        ],
+        "preparing_time": 15,
+        "calories": 150
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/Rcn3msc/alfredo-pasta.jpg",
+        "recipe_id": 3,
+        "recipe_name": "Creamy Alfredo Pasta",
+        "short_description": "A delicious pasta recipe with creamy Alfredo sauce and Parmesan cheese.",
+        "ingredients": [
+            "400 g pasta",
+            "250 ml heavy cream",
+            "100 g Parmesan cheese",
+            "2 cloves garlic",
+            "30 g butter"
+        ],
+        "preparing_time": 25,
+        "calories": 450
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/sK0RfMr/chocolate-cake.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Classic Chocolate Cake",
+        "short_description": "A rich and moist chocolate cake topped with creamy chocolate frosting.",
+        "ingredients": [
+            "200 g flour",
+            "150 g sugar",
+            "100 g cocoa powder",
+            "3 eggs",
+            "100 ml milk"
+        ],
+        "preparing_time": 40,
+        "calories": 380
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/ctsNDXH/caesar-salad.webp",
+        "recipe_id": 5,
+        "recipe_name": "Caesar Salad",
+        "short_description": "A classic Caesar salad with crispy croutons and Caesar dressing.",
+        "ingredients": [
+            "150 g romaine lettuce",
+            "50 g croutons",
+            "30 g Parmesan cheese",
+            "60 ml Caesar dressing",
+            "1 clove garlic"
+        ],
+        "preparing_time": 20,
+        "calories": 220
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/K51R0Cv/tuna-sandwich.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Tuna Sandwich",
+        "short_description": "A simple tuna sandwich with mayonnaise and fresh vegetables.",
+        "ingredients": [
+            "200 g canned tuna",
+            "50 g mayonnaise",
+            "2 slices of bread",
+            "30 g lettuce",
+            "20 g onion"
+        ],
+        "preparing_time": 10,
+        "calories": 250
+    }
+]
