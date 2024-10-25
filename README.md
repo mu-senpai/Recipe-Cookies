@@ -13,4 +13,4 @@ Recipe Calories is a React-based web application where users can explore recipes
 2. **Interactive Cooking Queue**: Users can add recipes to their “Want to Cook” list, track selected recipes, and move them to “Currently Cooking” with real-time table updates and limits on duplicates.
 3. **Real-Time Nutrition and Time Tracking**: Calculates total calories and preparation time of selected recipes for better meal planning.
 
-## Live Link of This Project: https://web-recipe-calories.netlify.app/
+## Live Link of This Project: https://web-recipe-calories.netlify.app/ 
